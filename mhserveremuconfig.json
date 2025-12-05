@@ -202,7 +202,7 @@
         "EnumValues": {}
     },
 	{
-        "DisplayName": "Port",
+        "DisplayName": "Auth Port",
         "Category": "MHServerEMU:stadia_controller",
         "Description": "Port for the auth server to listen on",
         "Keywords": "auth,port",

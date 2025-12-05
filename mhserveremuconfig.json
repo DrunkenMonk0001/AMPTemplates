@@ -192,7 +192,7 @@
         "FieldName": "Address",
         "InputType": "text",
         "IsFlagArgument": false,
-        "ParamFieldName": "Auth.Address",
+        "ParamFieldName": "WebFrontend.Address",
         "IncludeInCommandLine": false,
         "DefaultValue": "localhost",
         "Placeholder": "localhost",
@@ -208,7 +208,7 @@
         "Keywords": "auth,port",
         "FieldName": "EnableLogging",
         "InputType": "text",
-        "ParamFieldName": "Auth.EnableLogging",
+        "ParamFieldName": "WebFrontend.Port",
         "DefaultValue": "8080",
         "Placeholder": "8080",
         "EnumValues": {}
@@ -220,7 +220,7 @@
         "Keywords": "auth,api",
         "FieldName": "EnableWebApi",
         "InputType": "checkbox",
-        "ParamFieldName": "Auth.EnableWebApi",
+        "ParamFieldName": "WebFrontend.EnableWebApi",
         "DefaultValue": "true",
         "Placeholder": "true",
         "EnumValues": {
